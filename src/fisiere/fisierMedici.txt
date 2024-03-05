@@ -1,0 +1,4 @@
+Marcu;Cristian;1990;Implanturi;UMFT-TM
+Marcu;Oana;1995;Implanturi maxilofaciale;UMFT-TM
+Failizu;Adisa;2000;Detartraj;UBB Cluj
+Ciorbea;Tudor;1998;Copii;Umft
